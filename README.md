@@ -11,6 +11,11 @@ TESTING WORK IN GIT
 5. [GitHowTo](https://githowto.com/ru)
 6. [Официальный учебник по Git](https://git-scm.com/book/ru/v2)
 
+Лекции с интенсива (конспект)
+----
+1. [Первая лекция](firstlection.md)
+2. [Вторая лекция](secondlection.md) в процессе написания
+
 Как я добавил этот файл сюда
 -----------------------------------
 
